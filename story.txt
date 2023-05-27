@@ -1,0 +1,6 @@
+#Hello Everyone...
+
+#why i create this project?
+my last sem i study full stack
+the Password Strength Checker is important 16 marks
+so write this code..
