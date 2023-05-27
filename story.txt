@@ -1,6 +1,7 @@
 #Hello Everyone...
 
 #why i create this project?
-my last sem i study full stack
-the Password Strength Checker is important 16 marks
+
+my last sem I study full stack
+The Password Strength Checker is important 16 marks
 so write this code..
